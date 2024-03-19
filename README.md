@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm Diego 👋
+
+- 📚 I'm a Software Engineering Professional with over 15 years of experience in software development both backend and frontend and many years leading high performance teams of engineers.
+
+- ⚙️ I have a passion for software development and Engineering Management in particular where I can help engineers grow both personal and profesionally and reach their goals
 
 <!--
 **diegoledesma/diegoledesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
